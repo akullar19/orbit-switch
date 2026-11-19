@@ -1,5 +1,5 @@
 // Orbit Switch offline cache. Bump VERSION whenever you upload a new index.html.
-const VERSION = 'orbit-v11';
+const VERSION = 'orbit-v12';
 const CORE = ['./', './index.html', './manifest.webmanifest', './icons/icon-180.png', './icons/icon-192.png', './icons/icon-512.png'];
 
 self.addEventListener('install', e => {
